@@ -1,4 +1,4 @@
-# Project 11: Linear Algebra
+# Project 11: Predicting Insurance Benefits and Data Masking
  
 **Objective:** To leverage linear regression analysis, the k-nearest neighbors (KNN) algorithm, and linear algebra to assist Sure Tomorrow insurance company with customer segmentation, benefits prediction, and data privacy protection.
 
